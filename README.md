@@ -1,16 +1,16 @@
-# weather_app
+# Flutter Weather UI
 
-A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Sebuah aplikasi ui sederhana untuk menampilkan perkiraan cuaca hari ini. Pada projek ini pure
+hanya tampilan ui saja. Tidak ada logic atau api yang dipakai
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Untuk penginstalannya, cukup dengan:
+- download projek ini 
+- extract projek ke dalam foldermu
+- buka projek, lalu run 'flutter pub get' atau 'pub get'
+- selesai

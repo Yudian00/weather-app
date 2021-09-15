@@ -1,7 +1,8 @@
 # Flutter Weather UI
 
 ## Preview
-https://user-images.githubusercontent.com/73198800/133385096-951e23a7-5a69-4f63-9149-991f3574d4a4.jpg
+![ss weather app](https://user-images.githubusercontent.com/73198800/133385096-951e23a7-5a69-4f63-9149-991f3574d4a4.jpg)
+
 
 ## Description
 
